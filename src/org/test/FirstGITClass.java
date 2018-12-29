@@ -6,6 +6,7 @@ public class FirstGITClass {
 		// TODO Auto-generated method stub
 		System.out.println("First GIT Project");
 		System.out.println("Changes first time");
+		System.out.println("Switched to Branch 1");
 	}
 
 }
